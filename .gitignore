@@ -1,0 +1,13 @@
+bin/
+obj/
+tests/bin/
+tests/obj/
+dist/
+output/
+.vs/
+.idea/
+TestResults/
+samples/02-example.heic
+*.log
+*.tmp
+*.user
